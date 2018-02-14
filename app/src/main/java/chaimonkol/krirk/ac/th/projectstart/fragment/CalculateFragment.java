@@ -22,6 +22,7 @@ public class CalculateFragment extends Fragment implements View.OnClickListener 
 
     private String displayString = "";
 
+
     private String tag = "23JanV1";
     private  boolean addABoolean = false, minusAboolean = false;
 
